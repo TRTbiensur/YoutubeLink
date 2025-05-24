@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirection Chaîne YouTube</title>
+    <meta http-equiv="refresh" content="0; url=youtube://www.youtube.com/@T.R.T." />
+    <script>
+      setTimeout(function () {
+        window.location.href = "https://www.youtube.com/@T.R.T.";
+      }, 500);
+    </script>
+  </head>
+  <body>
+    <p>Redirection vers la chaîne YouTube...</p>
+  </body>
+</html>
