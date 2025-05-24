@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirection YouTube</title>
+    <meta http-equiv="refresh" content="0; url=youtube://watch?v=KVxyGSPnfXo" />
+    <script>
+      setTimeout(function () {
+        window.location.href = "https://www.youtube.com/watch?v=KVxyGSPnfXo";
+      }, 500);
+    </script>
+  </head>
+  <body>
+    <p>Redirection vers YouTube...</p>
+  </body>
+</html>
